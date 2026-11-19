@@ -1,0 +1,1 @@
+[{"expenses":[{"description":"foods","amount":500},{"description":"studies","amount":300}],"id":1,"name":"heng long","gender":"male","age":23},{"expenses":[{"description":"shoping","amount":800},{"description":"foods","amount":500}],"id":2,"name":"mut neary","gender":"female","age":23},{"expenses":[],"id":3,"name":"keo prak","gender":"male","age":45}]
